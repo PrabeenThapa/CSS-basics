@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&family=Saira+Extra+Condensed:wght@100&display=swap');
+
+body{
+font-family: 'Roboto', sans-serif;
+font-weight: 500;
+}
+
+.text-violet{
+    color: #5F4B8BFF;
+}
+
+.text-blue{
+    color:#00203FFF;
+}
+.text-white{
+    color:rgb(13, 4, 102) 2, 58);
+}
+
+.bg-dahlia{
+    background-color:#E69A8DFF ; 
+}
+.bg-mint{
+    background-color: #ADEFD1FF;
+}
