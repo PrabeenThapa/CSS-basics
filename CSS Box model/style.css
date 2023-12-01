@@ -1,0 +1,27 @@
+h1{
+    border: 20px dotted red;
+    /* padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 25px;
+    padding-bottom: 50px; */
+
+    padding: 50px;
+
+    /* padding: 20px 60px; */
+
+    /* padding: 20px 30px 40px 50px;  clockwise */
+
+    /* margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 30px;
+    margin-bottom: 100px; */
+
+    margin: 50px;
+    margin: 10px 20px 30px 40px;
+
+    width: 500px;
+    margin: 20px auto;
+
+    background-color: lightblue;
+    
+}
